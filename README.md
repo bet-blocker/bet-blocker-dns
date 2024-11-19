@@ -1,4 +1,14 @@
-# BetBlocker-DNS
+# BetBlocker DNS
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/41f77072-bda4-4f1e-965e-1d421669ee35" alt="screen-home" width="1200">
+</p>
+
+[![Star on GitHub](https://img.shields.io/github/stars/bet-blocker/bet-blocker-dns.svg?style=social)](https://github.com/bet-blocker/bet-blocker-dns/stargazers)
+<a href="https://github.com/bet-blocker/bet-blocker-dns/network" target="_blank"><img alt="GitHub forks" src="https://img.shields.io/github/forks/bet-blocker/bet-blocker-dns"></a>
+<a href="https://github.com/bet-blocker/bet-blocker-dns/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/bet-blocker/bet-blocker-dns"></a>
+[![GitHub tag](https://img.shields.io/github/tag/bet-blocker/bet-blocker-dns)](https://github.com/bet-blocker/bet-blocker-dns/releases/?include_prereleases&sort=semver "View GitHub releases")
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")
 
 Um Serviço de DNS para Bloqueio de Sites de Apostas
 
